@@ -1,0 +1,8 @@
+admin admin 1
+coach coach 2
+adherent adherent 3
+kine kine 4
+nutritionniste nutritionniste 5
+
+user2 root 3
+user2 root 3
